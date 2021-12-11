@@ -1,0 +1,12 @@
+.headerSec1 {
+  background-color: #262626;
+}
+.headerSec1__cols{
+    font-size: 10px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Poppins";  
+}
+.headerSec1__cols p{
+    margin-top: 1rem;
+}

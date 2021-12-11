@@ -1,0 +1,42 @@
+ .sec6__container{
+    margin-top: 2.5rem;
+}
+.sec6__hr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sec6__hr hr:not([size]){
+    width: 10%;
+    height: 2px;
+    display: inline-block;
+}
+.sec6 p{
+    font-size: 24px;
+}
+.sec6__img img{
+    max-width: 100%;
+}
+.sec6__img1 img{
+    max-width: 100%;
+}
+.sec6__row__img{
+    margin-top: -3rem;
+}
+.sec6__img1 img{
+    max-width: 100%;
+}
+.sec6__h3{
+    margin-top: 6rem;
+}
+.sec6__h3 p{
+    text-align: justify;
+    font-size: 15px;
+}
+.sec6__img3{
+    text-align: end;
+}
+.sec6__img3 img{
+    max-width: 75%;
+}

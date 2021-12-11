@@ -1,0 +1,8 @@
+.sec4__container{
+    margin-top: 5rem;
+}
+.sec4__container__row__img img{
+    height: auto;
+    width: 60%;
+    margin-left: 2rem;
+}

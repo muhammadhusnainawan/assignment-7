@@ -1,0 +1,25 @@
+.sec7__container {
+  margin-top: 4rem;
+}
+.sec7__hr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.sec7__hr hr:not([size]) {
+  width: 10%;
+  height: 2px;
+  display: inline-block;
+}
+.sec7__img img {
+  max-width: 100%;
+  height: auto;
+}
+.sec7__ratings img {
+  max-width: 100%;
+  height: auto;
+}
+.sec7__rowratings{
+    margin-top: 3rem;
+}

@@ -1,0 +1,110 @@
+.sec3__card {
+  text-align: center;
+  filter: drop-shadow(0px 48px 39px rgba(0, 0, 0, 0.16));
+}
+.sec3__container1__row1__p {
+  padding-bottom: 6rem;
+}
+.sec3__card button {
+  color: #ffffff;
+  font-weight: 600;
+  font-family: "Poppins";
+  background-color: #ee9617;
+  border-radius: 23px;
+  height: 37px;
+  width: 156px;
+  border-color: transparent;
+}
+.sec3__tab {
+  padding-left: 0;
+}
+.sec3__tab__btn1 button {
+  color: #ffffff;
+  font-weight: 600;
+  font-family: "Poppins";
+  border-radius: 9px !important;
+  filter: drop-shadow(0 0 7.5px rgba(0, 0, 0, 0.16)) !important;
+  background-color: #ee9617 !important;
+}
+.sec3__tab__btn2 button {
+  color: #8989a2 !important;
+  font-weight: 600 !important;
+  font-family: "Poppins" !important ;
+  border-radius: 9px !important;
+  background-color: #f7f4f2 !important;
+  border: 2px solid #8989a2 !important;
+}
+.sec3__container2__row1 {
+  background-image: url(../../assets/Images/bgimage.png);
+  margin-top: -41px;
+  /* background-color: #ffffff; */
+  margin-left: -12px;
+}
+.sec3__container2__row1__img {
+  margin-top: 30px;
+  background-color: #ffffff;
+  z-index: 1;
+}
+.sec3__container2__row1 img {
+  height: auto;
+  width: auto;
+  margin-top: 30px;
+}
+.sec3__container2__row2 {
+  /* background-color: #ffffff; */
+  margin-left: -12px;
+}
+.sec3__container2__row2__h1 {
+  background-color: #ffffff;
+  z-index: 1;
+  padding: 21px;
+}
+.sec3__container2__row2__h1 h1 {
+  padding-left: 20px;
+}
+.sec3__container2__row2__h1 p {
+  text-align: left;
+  
+}
+.btn__lg {
+  color: #ffffff;
+  font-weight: 600;
+  font-family: "Poppins";
+  background-image: linear-gradient(-71deg, #ee9617 0%, #fe5858 100%);
+  border-radius: 23px;
+  /* height: 37px;
+  width: 156px; */
+  border-color: transparent;
+  margin-top: 4%;
+}
+.btn__xl {
+  color: #8989a2;
+  font-weight: 600;
+  font-family: "Poppins";
+  background-color: #ffffff !important;
+  border-radius: 23px;
+  /* height: 37px;
+  width: 156px; */
+  border-color: #8989a2;
+  margin-top: 8%;
+  border-left-width: 3px;
+  border-right-width: 3px;
+}
+.btn__xl:hover {
+  color: #8989a2;
+}
+.sec3__container2__row2__img img {
+  height: auto;
+  width: 100%;
+}
+.sec3__container3 {
+  background-color: #ffffff;
+  z-index: 1;
+  padding-left: inherit;
+  margin-left: 12px;
+}
+.sec3__container3__row1__p {
+  background-color: #ffffff;
+  z-index: 1;
+  padding: 13px 50px;
+}

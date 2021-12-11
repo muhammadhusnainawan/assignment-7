@@ -1,0 +1,26 @@
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+.sec2__p{
+    margin-top: 29px;
+    text-align: left;
+}
+.sec2_img{
+    padding: 0;
+}
+.sec2_img img{
+    height: auto;
+    width: 50%;
+}
+.sec2__hr{
+    justify-content: center;
+}
+.sec2__hr hr:not([size]) {
+    height: 2px;
+    width: 17%;
+}
+.sec2__img img{
+    height: auto;
+    width: -webkit-fill-available;
+}
